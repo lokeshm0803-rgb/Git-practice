@@ -1,1 +1,7 @@
 this is my first git interaction !
+
+Git and Git hub 
+
+staging --- add
+
+commit 
