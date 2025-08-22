@@ -4,4 +4,6 @@ Git and Git hub
 
 staging --- add
 
-commit 
+commit means taking snapshot of our contents
+
+git log shows our previous commits data 
