@@ -7,3 +7,11 @@ staging --- add
 commit means taking snapshot of our contents
 
 git log shows our previous commits data 
+
+git branch are different pointers to contents at particular time
+
+git branch <>
+
+git checkout <> --will go to branch <>
+
+git branch -- shows all branches 
